@@ -7,12 +7,11 @@
 
 # Site settings
 title: Dalton Ma
-email: your-email@domain.com
+email: dzm2026@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Dalton's Website
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "/" # the base hostname & protocol for your site
-theme: jekyll-theme-cs50
+  This is Project Melody.
+
+theme: jekyll-text-theme
 
 # Build settings
 markdown: kramdown
@@ -23,23 +22,19 @@ kramdown:
   toc_levels:     1..3
 exclude: ["README.md"]
 
-collections:
-  author:
-    output: true
-    permalink: /:collection/:name
-  posts:
-    output: true
-    permalink: /blog/:categories/:year/:month/:day/:title
+#collections:
+#  author:
+#    output: true
+#    permalink: /:collection/:name
+#  posts:
+#    output: true
+#    permalink: /blog/:categories/:year/:month/:day/:title
 
 
-defaults:
-  - scope:
-      path: ""
-      type: "author"
-    values:
-      layout: "author"
+#defaults:
+#  - scope:
+#      path: ""
+#      type: "author"
+#    values:
+#      layout: "author"
 
-algolia: false
-
-cs50:
-  tz: America/Chicago

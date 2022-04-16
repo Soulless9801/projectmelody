@@ -3,8 +3,8 @@ ruby RUBY_VERSION
 
 # This will help ensure the proper Jekyll version is running.
 gem "jekyll"
-
-gem "jekyll-theme-cs50", group: :jekyll_plugins, git: "https://github.com/cs50/jekyll-theme-cs50", branch: "develop"
+gem "webrick"
+gem "jekyll-text-theme", group: :jekyll_plugins, git: "https://github.com/kitian616/jekyll-TeXt-theme", branch: "master"
 
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

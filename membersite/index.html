@@ -42,6 +42,9 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css"
     />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="//cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css" />
+    <script src="https://cdn.datatables.net/1.11.5/js/jquery.dataTables.min.js"></script>
   </head>
   <body>
     <!--
@@ -87,7 +90,7 @@
     <div class="main" style="margin-left: 10px; margin-top: 2px">
       <h1>Welcome to Project Melody!!</h1>
       <h3>Announcements:</h2>
-      <div class="announcements" style="width:60%;">
+      <div id="announcements" style="width:60%;">
           <div class="card">
               <div class="card-body">
                   <h5 class="card-title">None for now!</h5>
@@ -108,6 +111,47 @@
               </div>
           -->
       </div>
+      <br>
+      <br>
+      <br>
+      <h3>Events</h3>
+      <div id="concertschedule" style="width: 60%">
+        <table class="table table-striped table-hover" id="concerttable">
+            <thead>
+                <tr>
+                    <th scope="col">Date</th>
+                    <th scope="col">Title</th>
+                    <th scope="col">Location</th>
+                    <th scope="col">Time</th>
+                    <th scope="col">Sign Up Link</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="table-dark">
+                    <td>April 15th, 2022</td>
+                    <td></td>
+                    <td>Maple Ridge Retirement Home</td>
+                    <td>1:30 PM</td>
+                    <td>---</td>
+                </tr>
+                <tr>
+                    <td>----</td>
+                    <td>Virtual K-Pop Concert</td>
+                    <td>----</td>
+                    <td>----</td>
+                    <td>----</td>
+                </tr>
+            </tbody>
+        </table>
+        <div style="font-style:italic;">
+            Dark rows are concerts in the past.
+        </div>
+      </div>
     </div>
+    <script type="text/javascript">
+        $(document).ready( function () {
+            $('#concerttable').DataTable();
+        } );
+    </script>
   </body>
 </html>

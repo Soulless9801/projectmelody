@@ -1,0 +1,459 @@
+WEBVTT
+Kind: captions
+Language: cs
+
+00:00:01.140 --> 00:00:06.610
+V posledním videu jsem řekl…
+Řekněme, že jsme začali se vzdáleností,
+
+00:00:06.610 --> 00:00:07.829
+takže jsme si řekli,
+
+00:00:07.829 --> 00:00:09.479
+že známe změnu vzdálenosti.
+
+00:00:09.939 --> 00:00:11.490
+Změnu vzdálenosti.
+
+00:00:11.490 --> 00:00:13.350
+Tohle jsou hodnoty, které známe.
+
+00:00:13.350 --> 00:00:18.330
+Známe zrychlení, známe počáteční rychlost
+
+00:00:18.960 --> 00:00:21.810
+a já se vás ptal, 
+jak zjistíme konečnou rychlost.
+
+00:00:21.810 --> 00:00:25.290
+V minulém videu, pokud si nevzpomínáte,
+koukněte se znovu,
+
+00:00:25.290 --> 00:00:27.110
+jsme odvodili vztah:
+
+00:00:27.110 --> 00:00:32.820
+‚vf‘ na druhou, 
+konečná rychlost na druhou,
+
+00:00:32.820 --> 00:00:40.590
+se rovná počáteční rychlosti na druhou 
+plus 2 krát rozdíl vzdálenosti.
+
+00:00:40.590 --> 00:00:43.220
+Někdy se můžete setkat jen 
+s tvarem 2 krát vzdálenost,
+
+00:00:43.220 --> 00:00:47.900
+neboť předpokládáme, že počáteční
+vzdálenost je v tomto bodě 0,
+
+00:00:47.900 --> 00:00:50.540
+takže rozdíl vzdálenosti by
+byl jen konečná vzdálenost.
+
+00:00:50.540 --> 00:00:54.080
+Možné jsou oba způsoby
+a snad již chápete,
+
+00:00:54.080 --> 00:00:56.900
+proč často skáču z jednoho
+termínu na druhý.
+
+00:00:56.900 --> 00:00:59.410
+Říkám to jen proto, aby vás nemátlo,
+
+00:00:59.410 --> 00:01:00.900
+když uvidíte to nebo ono.
+
+00:01:00.900 --> 00:01:05.810
+Tohle byla situace, kdy jsme ‚vf‘ neznali.
+
+00:01:05.810 --> 00:01:10.600
+Nyní si místo toho zkusíme
+vypočítat čas.
+
+00:01:10.600 --> 00:01:12.900
+Jakmile jednou známe konečnou rychlost,
+
+00:01:12.900 --> 00:01:15.230
+známe v podstatě čas 
+a já vám ukáži, jak na to.
+
+00:01:15.230 --> 00:01:17.050
+Řekněme, 
+že chceme ten krok přeskočit.
+
+00:01:17.050 --> 00:01:20.330
+Jak zjistit čas přímo ze vzdálenosti,
+
+00:01:20.330 --> 00:01:22.670
+zrychlení a počáteční rychlosti?
+
+00:01:22.670 --> 00:01:28.210
+Vraťme se opět k nejzákladnější rovnici
+pro výpočet vzdálenosti.
+
+00:01:28.210 --> 00:01:32.020
+Nebo spíše ke vztahu mezi
+vzdáleností a rychlostí.
+
+00:01:32.020 --> 00:01:36.010
+Víme, tentokrát to napíšu trochu jinak,
+
+00:01:36.010 --> 00:01:45.820
+že změna rychlosti za čas
+je vlastně průměrná rychlost.
+
+00:01:47.130 --> 00:01:52.680
+Mohli jsme to také zapsat jako:
+
+00:01:53.790 --> 00:02:00.780
+rozdíl vzdálenosti se rovná
+průměrná rychlost krát čas.
+
+00:02:00.780 --> 00:02:04.000
+Toto je rozdíl času a rozdíl vzdálenosti.
+
+00:02:04.000 --> 00:02:07.330
+Někdy to uvidíte jen jako:
+d je rovno…
+
+00:02:07.330 --> 00:02:10.190
+Napíši to jinou barvou,
+aby to bylo rozmanitější.
+
+00:02:10.190 --> 00:02:16.490
+...‚d‘ je rovno rychlosti krát změna času
+nebo jen rychlost krát čas.
+
+00:02:16.490 --> 00:02:21.900
+Důvod, proč tu mám rozdíl ve vzdálenosti
+a rozdíl v čase, je, že není jisté,
+
+00:02:21.900 --> 00:02:24.720
+že jsme začínali v bodě ‚0‘,
+nebo že čas byl na začátku 0.
+
+00:02:24.720 --> 00:02:25.480
+Pokud by byl,
+
+00:02:25.480 --> 00:02:31.680
+konečná vzdálenost by se pak rovnala pouze
+průměrné rychlosti krát výsledný čas,
+
+00:02:31.680 --> 00:02:32.950
+ale použijme ten původní.
+
+00:02:32.950 --> 00:02:38.100
+Chceme zjistit čas pomocí těchto veličin.
+
+00:02:40.670 --> 00:02:44.660
+Vraťme se k této rovnici.
+
+00:02:44.660 --> 00:02:48.040
+Vlastně začneme touto rovnicí.
+
+00:02:48.040 --> 00:02:51.670
+Pokud tedy chceme zjistit čas
+nebo změnu v čase,
+
+00:02:51.670 --> 00:02:56.320
+mohli bychom jen vydělit obě 
+strany průměrnou rychlostí.
+
+00:02:56.320 --> 00:02:58.520
+Vlastně ne, raději to nedělejme.
+
+00:02:58.520 --> 00:03:01.430
+Zůstaneme u vyjádření 
+s rozdílem vzdálenosti.
+
+00:03:02.330 --> 00:03:04.200
+Nechte mě jen…
+
+00:03:05.266 --> 00:03:12.340
+Strašně rychle jsem pokryl celý prostor,
+smažu to a začnu znovu.
+
+00:03:12.340 --> 00:03:25.780
+Známe vzdálenost, počáteční 
+rychlost a zrychlení
+
+00:03:25.780 --> 00:03:28.020
+a chceme zjistit čas.
+
+00:03:28.020 --> 00:03:31.730
+Vlastně je to změna času,
+ale uvažujme,
+
+00:03:31.730 --> 00:03:34.870
+že začínáme v čase '0',
+takže je to vlastně konečný čas.
+
+00:03:34.940 --> 00:03:36.050
+Víme tedy, že…
+
+00:03:37.150 --> 00:03:39.550
+Začneme jednoduše vzorečkem:
+
+00:03:39.550 --> 00:03:43.430
+vzdálenost nebo rozdíl vzdálenosti,
+budu je teď zaměňovat
+
+00:03:43.430 --> 00:03:50.050
+a budu je značit ‚d‘, 
+se rovná průměrná rychlost krát čas.
+
+00:03:51.320 --> 00:03:53.080
+Jaká je průměrná rychlost?
+
+00:03:53.080 --> 00:04:03.830
+Průměrná rychlost je prostě počáteční
+plus konečná rychlost děleno dvěma.
+
+00:04:03.830 --> 00:04:07.885
+Důvod, proč můžeme jen zprůměrovat
+počáteční a konečnou rychlost, je,
+
+00:04:07.885 --> 00:04:10.280
+že předpokládáme konstantní zrychlení,
+
+00:04:10.280 --> 00:04:11.480
+to je velmi důležité,
+
+00:04:11.480 --> 00:04:16.220
+ale u většiny vrhů máme konstantní 
+zrychlení, dolů, a to gravitaci.
+
+00:04:16.220 --> 00:04:18.379
+Můžeme předpokládat,
+že můžeme udělat toto.
+
+00:04:18.379 --> 00:04:23.360
+Můžeme říct, že průměr počáteční
+a konečné rychlosti je průměrná rychlost,
+
+00:04:23.360 --> 00:04:25.790
+kterou následně vynásobíme časem.
+
+00:04:28.120 --> 00:04:30.470
+Můžeme tuto rovnici použít přímo?
+
+00:04:30.470 --> 00:04:33.090
+Ne. Známe sice zrychlení,
+ale neznáme konečnou rychlost.
+
+00:04:33.090 --> 00:04:37.900
+Pokud bychom ji dokázali vyjádřit
+některými jinými veličinami v rovnici,
+
+00:04:37.900 --> 00:04:40.920
+poté bychom to nejspíš spočítali.
+
+00:04:40.920 --> 00:04:47.100
+Zkusme to tedy: vzdálenost se rovná…
+
+00:04:47.100 --> 00:04:49.070
+Trochu odbočím.
+
+00:04:49.070 --> 00:04:51.870
+Co víme o konečné rychlosti?
+
+00:04:51.870 --> 00:05:00.140
+Víme že změna rychlosti 
+je zrychlení krát čas,
+
+00:05:00.140 --> 00:05:03.050
+s tím, že čas na začátku je nula.
+
+00:05:03.900 --> 00:05:08.620
+Změna rychlosti není nic 
+jiného než: vf minus vi,
+
+00:05:08.620 --> 00:05:11.420
+a to se rovná zrychlení krát čas.
+
+00:05:11.420 --> 00:05:12.280
+Víme,
+
+00:05:12.280 --> 00:05:18.030
+že konečná rychlost se rovná počáteční
+rychlost plus zrychlení krát čas.
+
+00:05:18.030 --> 00:05:22.550
+Nahradíme tím to, co jsme tu psali.
+
+00:05:22.550 --> 00:05:28.950
+Máme napsáno, že vzdálenost je rovna:
+počáteční plus konečná rychlost,
+
+00:05:28.950 --> 00:05:32.650
+tu teď nahradíme naším výrazem.
+
+00:05:32.650 --> 00:05:36.435
+Počáteční rychlost plus konečná rychlost,
+
+00:05:36.435 --> 00:05:41.910
+která je teď počáteční rychlost 
+plus zrychlení krát čas
+
+00:05:41.910 --> 00:05:43.990
+a to celé ještě vydělíme dvěma,
+
+00:05:45.440 --> 00:05:46.800
+krát čas.
+
+00:05:47.850 --> 00:05:53.610
+Dostaneme: d se rovná,
+máme tu dvojku v čitateli,
+
+00:05:53.610 --> 00:06:02.510
+takže máme 2 krát počáteční rychlost,
+2 krát vi plus a krát t děleno 2
+
+00:06:02.510 --> 00:06:05.500
+a to celé krát t.
+
+00:06:05.500 --> 00:06:07.730
+To můžeme ještě zjednodušit.
+
+00:06:07.730 --> 00:06:12.380
+Takže to je ‚d‘ se rovná… 
+dvojky se vyruší,
+
+00:06:12.380 --> 00:06:15.520
+roznásobíme to ‚t‘,
+
+00:06:15.520 --> 00:06:24.820
+takže d se rovná vi krát t plus… 
+tady je a krát t děleno 2,
+
+00:06:24.820 --> 00:06:26.390
+ale to se ještě vynásobí ‚t‘,
+
+00:06:26.390 --> 00:06:33.390
+takže to je a krát t na druhou děleno 2.
+
+00:06:33.390 --> 00:06:37.010
+Tuhle rovnici použijeme,
+pokud známe vzdálenost,
+
+00:06:37.010 --> 00:06:42.980
+vlastně by to měl být rozdíl 
+vzdálenosti a rozdíl času…
+
+00:06:42.980 --> 00:06:48.540
+se rovná počáteční rychlost krát čas plus 
+zrychlení na druhou, to celé děleno 2.
+
+00:06:48.540 --> 00:06:51.660
+Shrnu všechny rovnice, které máme,
+
+00:06:51.660 --> 00:07:00.010
+protože teď již umíme vše, co potřebujeme
+pro výpočet pohybu v jedné dimenzi.
+
+00:07:00.010 --> 00:07:03.080
+Věci cestující vlevo, vpravo, 
+na východ, na západ, sever či jih,
+
+00:07:03.080 --> 00:07:04.000
+ne však oboje.
+
+00:07:04.000 --> 00:07:05.820
+To budeme dělat v příštím videu.
+
+00:07:05.820 --> 00:07:08.610
+Takže si to shrňme.
+
+00:07:13.820 --> 00:07:22.810
+Víme, že rozdíl vzdálenosti za čas
+je vlastně rychlost, průměrná rychlost.
+
+00:07:22.810 --> 00:07:24.200
+Rovnalo by se to rychlosti,
+
+00:07:24.200 --> 00:07:28.420
+pokud by rychlost byla neměnná,
+ale nám se rychlost mění.
+
+00:07:28.420 --> 00:07:31.707
+My totiž máme zrychlení,
+konstantní, to je důležité říci.
+
+00:07:31.707 --> 00:07:40.330
+Dále také víme, že změna 
+rychlosti za čas je zrychlení.
+
+00:07:40.330 --> 00:07:45.100
+Naučili jsme se, 
+že průměrná rychlost je rovna:
+
+00:07:45.100 --> 00:07:51.650
+konečná rychlost plus počáteční rychlost
+děleno 2, za předpokladu,
+
+00:07:51.650 --> 00:07:53.120
+že zrychlení je konstantní.
+
+00:07:54.150 --> 00:07:59.330
+Zrychlení je konstantní.
+
+00:08:01.870 --> 00:08:05.530
+Pokud známe počáteční rychlost,
+zrychlení a vzdálenost
+
+00:08:05.530 --> 00:08:09.330
+a chceme zjistit konečnou rychlost,
+
+00:08:09.330 --> 00:08:14.520
+uděláme to takto:
+
+00:08:14.520 --> 00:08:22.603
+vf na druhou se rovná
+vi na druhou plus 2 krát a.
+
+00:08:22.603 --> 00:08:25.193
+Opravdu je to rozdíl vzdálenosti,
+
+00:08:25.193 --> 00:08:27.500
+takže to napíšu,
+protože někdy na tom záleží
+
+00:08:27.500 --> 00:08:29.930
+hlavně pokud hraje roli i směr.
+
+00:08:29.930 --> 00:08:31.259
+…krát rozdíl vzdálenosti,
+
+00:08:31.259 --> 00:08:34.689
+ale setkáte se i se vzdáleností.
+
+00:08:34.689 --> 00:08:36.270
+Poté jsme měli tuto rovnici…
+
+00:08:36.270 --> 00:08:38.960
+myslím, že i v tomto videu, někdy dříve…
+
+00:08:38.960 --> 00:08:43.390
+Naučili jsme se,
+že vzdálenost je rovna
+
+00:08:43.390 --> 00:08:52.420
+počáteční rychlost krát čas plus 
+zrychlení krát čas děleno 2.
+
+00:08:52.420 --> 00:08:56.230
+V tom příkladu, který jsem počítal
+pár videí zpět,
+
+00:08:56.230 --> 00:08:58.890
+jsme měli útes… počkat, už mám jen minutu.
+
+00:08:58.890 --> 00:09:01.880
+Udělám to příště.
+
+00:09:01.880 --> 00:09:03.270
+Brzy na viděnou.
+

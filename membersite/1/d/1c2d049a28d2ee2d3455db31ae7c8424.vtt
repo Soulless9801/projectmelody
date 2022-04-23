@@ -1,0 +1,1139 @@
+WEBVTT
+Kind: captions
+Language: pl
+
+00:00:00.036 --> 00:00:03.087
+Zrobimy teraz kilka przykładów
+jak przedstawić trójmian kwadratowy
+
+00:00:03.087 --> 00:00:06.058
+w postaci iloczynowej - czasem 
+na trójmian kwadratowy mówi się
+
+00:00:06.058 --> 00:00:08.086
+po prostu trójmian, albo wielomian 
+kwadratowy.
+
+00:00:08.086 --> 00:00:12.065
+A czasem wyrażenie kwadratowe,
+
+00:00:12.065 --> 00:00:15.084
+ale to wszystko oznacza to
+
+00:00:15.084 --> 00:00:18.030
+samo - trójmian kwadratowy.
+
+00:00:18.030 --> 00:00:22.044
+Wielomian, w którym zmienna
+
+00:00:22.044 --> 00:00:23.007
+występuje w kwadracie.
+
+00:00:23.007 --> 00:00:26.046
+IWe wszystkich przykładach, które 
+zrobimy teraz, tą zmienną będzie x.
+
+00:00:26.046 --> 00:00:30.073
+Powiedzmy, że mam trójmian
+kwadratowy, x
+
+00:00:30.073 --> 00:00:35.028
+kwadrat dodać 10x, dodać 9.
+
+00:00:35.028 --> 00:00:39.086
+I chcę rozłożyć to wyrażenie na iloczyn 
+dwóch dwumianów w zmiennej x.
+
+00:00:39.086 --> 00:00:41.052
+Jak to zrobić?
+
+00:00:41.052 --> 00:00:44.043
+Zastanówmy się, co by było,
+
+00:00:44.043 --> 00:00:51.068
+wzięli x plus a i pomnożyli
+przez x plus b.
+
+00:00:51.068 --> 00:00:55.004
+Co otrzymamy z mnożenia x plus a
+przez x plus b?
+
+00:00:55.004 --> 00:00:57.009
+Mamy już doświadczenie, jak to
+zrobić.
+
+00:00:57.009 --> 00:01:03.017
+To będzie x razy x, czyli
+x kwadrat, plus x razy b,
+
+00:01:03.017 --> 00:01:12.068
+to jest bx, plus a razy x,
+plus a razy b-- plus ab.
+
+00:01:12.068 --> 00:01:15.079
+Teraz dodamy te dwa wyrazy
+tu po środku,
+
+00:01:15.079 --> 00:01:18.089
+ponieważ oba dają wkład do 
+współczynnka przy x.
+
+00:01:18.089 --> 00:01:22.010
+Możemy to zapisać jako x kwadrat
+plus-- zapiszę to jako
+
+00:01:22.010 --> 00:01:29.070
+b plus a, albo a plus
+b, razy x, plus ab.
+
+00:01:29.070 --> 00:01:34.039
+Ogólnie, jeśli to jest iloczyn
+
+00:01:34.039 --> 00:01:40.076
+dwóch dwumianów, widzimy że
+środkowy współczynnik, przy x,
+
+00:01:40.076 --> 00:01:43.025
+możemy go nazwać współczynnikiem
+pierwszego rzędu
+
+00:01:43.025 --> 00:01:49.004
+będzie sumą a i b.
+
+00:01:49.004 --> 00:01:51.035
+A wyraz stały będzie iloczynem,
+
+00:01:51.035 --> 00:01:52.051
+a razy b.
+
+00:01:52.051 --> 00:01:57.029
+Zauważcie, to odpowiada temu,
+
+00:01:57.029 --> 00:01:58.079
+a to temu.
+
+00:01:58.079 --> 00:02:02.059
+I to ocywiście jest tym samym, 
+co to.
+
+00:02:02.059 --> 00:02:05.059
+Widzimy podobieństwo pomiędzy
+tymi dwoma wyrażeniami?
+
+00:02:05.059 --> 00:02:14.006
+Gdyby istniały takie a i b,
+że ich suma równa się 10?
+
+00:02:14.006 --> 00:02:22.006
+A iloczyn byłby równy 9?
+
+00:02:22.006 --> 00:02:23.084
+Zastanówmy się przez chwilę.
+
+00:02:23.084 --> 00:02:25.046
+Na jakie czynniki można rozłożyć 9?
+
+00:02:25.046 --> 00:02:27.077
+Ile mogą wynosić a i b?
+
+00:02:27.077 --> 00:02:29.016
+Załóżmy, że szukamy liczb całkowitych.
+
+00:02:29.016 --> 00:02:32.034
+Kiedy szukamy rozkładu na czynniki,
+
+00:02:32.034 --> 00:02:33.094
+przynajmniej na początku,
+szukamy
+
+00:02:33.094 --> 00:02:35.058
+liczb całkowitych.
+
+00:02:35.058 --> 00:02:37.008
+Więc na jakie całkowite czynniki rozkłada 
+sie 9?
+
+00:02:37.008 --> 00:02:40.072
+Na 1, 3, oraz 9.
+
+00:02:40.072 --> 00:02:45.000
+Więc rozwiązaniem może być 3 i 3,
+albo 1 i 9.
+
+00:02:45.000 --> 00:02:48.062
+Gdyby rozwiązaniem było 3 i 3, wtedy
+suma wuniosłaby 3 plus 3-- a to
+
+00:02:48.062 --> 00:02:49.084
+nie równa się 10.
+
+00:02:49.084 --> 00:02:53.075
+Ale, jeśli weźmiemy 1
+i 9, 1 razy 9 równa się 9.
+
+00:02:53.075 --> 00:02:56.066
+A 1 plus 9 równa się 10.
+
+00:02:56.066 --> 00:02:57.056
+Więc to działa.
+
+00:02:57.056 --> 00:03:04.018
+A zatem a może być równe 1, 
+a b może być równe 9
+
+00:03:04.018 --> 00:03:08.091
+Możemy przedstawić ten trójmian 
+kwadratowy jako x plus 1,
+
+00:03:08.091 --> 00:03:12.096
+razy x plus 9.
+
+00:03:12.096 --> 00:03:15.084
+Pomnóżcie teraz te dwa wyrazy, 
+korzystając z tego, czego nauczyliście
+
+00:03:15.084 --> 00:03:18.096
+się oglądając poprzednie filmy,
+i upewnijcie się
+
+00:03:18.096 --> 00:03:22.087
+że wynik rzeczywiście będzie x kwadrat plus
+10x, plus 9.
+
+00:03:22.087 --> 00:03:25.015
+Jeśli napotkacie takie zadanie,
+w którym współczynnik
+
+00:03:25.015 --> 00:03:28.006
+przy wyrazie x kwadrat, albo wiodącym
+wyrazie tego trójmianu
+
+00:03:28.006 --> 00:03:31.065
+wynosi 1, możecie zawsze powiedziec,
+dobrze, jakie
+
+00:03:31.065 --> 00:03:34.053
+dwie liczby dodają się to tego 
+współczynnika
+
+00:03:37.071 --> 00:03:39.087
+I czy te same dwie liczby, jeśli je pomnożyć
+
+00:03:39.087 --> 00:03:41.065
+dadzą w wyniku wyraz stały, 9.
+
+00:03:41.065 --> 00:03:43.050
+Oczywiście trzeba najpierw sprowadzić
+trójmian do postaci standardowej.
+
+00:03:43.050 --> 00:03:46.000
+A jeśli nie jest w postaci standardowej,
+trzeba go do takiej postaci
+
+00:03:46.000 --> 00:03:48.050
+sprowwadzić, żeby móc powiedzieć,
+
+00:03:48.050 --> 00:03:51.053
+ile by nie wynosił współczynnik
+przy x, moje a i b,
+
+00:03:51.053 --> 00:03:52.030
+muszą się do niego dodać.
+
+00:03:52.030 --> 00:03:55.088
+I ile by nie wynosił wyraz stały,
+to a razy b, ich iloczyn musi
+
+00:03:55.088 --> 00:03:56.037
+być jemu równy.
+
+00:03:56.037 --> 00:03:58.015
+Zróbmy jeszcze kilka przykładów.
+
+00:03:58.015 --> 00:04:00.050
+Im więcej przykładów zrobimy
+
+00:04:00.050 --> 00:04:02.062
+tym łatwiej będzie zrozumieć, 
+jak to działa.
+
+00:04:02.062 --> 00:04:08.069
+Mamy trójmian kwadratowy, x kwadrat
+plus 10x, plus-- powiedzmy, niech będzie,
+
+00:04:08.069 --> 00:04:11.009
+mieliśmy już 10x, weźmy tym razem
+inną liczbę-- x kwadrat
+
+00:04:11.009 --> 00:04:15.036
+dodać 15x, dodać 50.
+
+00:04:15.036 --> 00:04:17.047
+I chcemy to przedstawić w postaci iloczynowej.
+
+00:04:17.047 --> 00:04:20.033
+Tak samo jak poprzednio.
+
+00:04:20.033 --> 00:04:22.060
+May wyraz kwadratowy.
+
+00:04:22.060 --> 00:04:25.012
+mamy wyraz pierwszego rzędu.
+
+00:04:25.012 --> 00:04:27.095
+Ten współczynnik powinien być
+sumą dwóch wyrazów.
+
+00:04:27.095 --> 00:04:30.062
+A ten wyraz stały
+
+00:04:30.062 --> 00:04:32.087
+powinien być ilozynem tych samych
+wyrazów.
+
+00:04:32.087 --> 00:04:35.063
+Musimy więc znaleźć dwie takie liczby,
+które po pomnożeniu
+
+00:04:35.063 --> 00:04:39.022
+dadzą 50, a kiedy je dodamy,
+otrzymamy 15.
+
+00:04:39.022 --> 00:04:41.091
+Przypomina to trochę sztukę, której
+powinniście się
+
+00:04:41.091 --> 00:04:44.052
+nauczyć, ale gdy zrobimy więcej
+przykładów, przekonacie się
+
+00:04:44.052 --> 00:04:45.073
+że można to rozwiązać zupełnie
+naturalnie.
+
+00:04:45.073 --> 00:04:47.032
+Czemu mogą być równe a i b?
+
+00:04:47.032 --> 00:04:48.097
+Na jakie czynniki można rozłożyć 50.
+
+00:04:48.097 --> 00:04:52.023
+Może 1 razy 50?
+
+00:04:52.023 --> 00:04:55.007
+I jeszcze 2 razy 25.
+
+00:04:55.007 --> 00:04:57.051
+Teraz tak, 50 nie dzieli się
+przez 4.
+
+00:04:57.051 --> 00:05:02.044
+Może być jeszcze 5 razy 10.
+
+00:05:02.044 --> 00:05:03.057
+To już chyba wszystkie możliwości.
+
+00:05:03.057 --> 00:05:05.092
+Zobaczmy teraz czy któraś z tych
+par liczb
+
+00:05:05.092 --> 00:05:07.031
+dodaje się do 15.
+
+00:05:07.031 --> 00:05:12.062
+1 plus 50 nie równa się 15.
+
+00:05:12.062 --> 00:05:16.016
+2 plus 25 też nie równa się 15.
+
+00:05:16.016 --> 00:05:19.025
+Ale 5 plus 10 równa się 15!
+
+00:05:19.025 --> 00:05:24.027
+A więc ten wyraz byłby równy 5 plus 10, a
+ten byłby równy 5 razy 10.
+
+00:05:24.027 --> 00:05:28.075
+A więc, w postaci iloczynowej,
+to sie równa x plus
+
+00:05:28.075 --> 00:05:32.062
+5, razy x plus 10.
+
+00:05:32.062 --> 00:05:33.083
+A teraz pomnóżcie to.
+
+00:05:33.083 --> 00:05:36.070
+Zachęcam Was, żebyście to pomnożyli
+i przekonali się że wynik
+
+00:05:36.070 --> 00:05:39.066
+rzeczywiście równa się x kwadrat plus
+15x, plus 10.
+
+00:05:39.066 --> 00:05:43.031
+Zróbmy to teraz, zróbmy to. x
+razy x, x kwadrat. x
+
+00:05:43.031 --> 00:05:45.080
+razy 10, plus 10x.
+
+00:05:45.080 --> 00:05:48.060
+5 razy x, plus 5x.
+
+00:05:48.060 --> 00:05:51.062
+5 razy 10, plus 50.
+
+00:05:51.062 --> 00:05:55.022
+Zauważyliście że 5 razy
+10 dało nam w wyniku 50?
+
+00:05:55.022 --> 00:06:00.088
+5x dodać 10x, to daje nam
+15x tutaj pomiędzy.
+
+00:06:00.088 --> 00:06:06.056
+Więc rzeczywiście otrzymujemy 
+x kwadrat plus
+15x, plus 50.
+
+00:06:06.056 --> 00:06:09.043
+Zróbmy teraz trudniejsze zadanie,
+w któym
+
+00:06:09.043 --> 00:06:11.004
+pojawi się znak minu.
+
+00:06:11.004 --> 00:06:18.088
+Mamy trójmian x kwadrat
+minus 11x, plus 24.
+
+00:06:18.088 --> 00:06:21.061
+Zastosuję dokładnie tą samą
+zasadę.
+
+00:06:21.061 --> 00:06:24.057
+Powinienem znaleźć dwie liczby
+które, jeśli je dodam
+
+00:06:24.057 --> 00:06:26.056
+powinny dać w rezultacie
+minus 11.
+
+00:06:26.056 --> 00:06:30.014
+a plus b powinno równać się
+minus 11.
+
+00:06:30.014 --> 00:06:37.089
+I a razy b powinno
+być równe 24.
+
+00:06:37.089 --> 00:06:41.029
+A teraz zastanówmy się.
+
+00:06:41.029 --> 00:06:43.095
+Jeśli pomnożę te dwie
+liczby, dostanę
+
+00:06:43.095 --> 00:06:45.007
+liczbę dodatnią.
+
+00:06:45.007 --> 00:06:46.095
+powinienem otrzymać 24.
+
+00:06:46.095 --> 00:06:50.025
+To oznacza, że obie te liczby
+muszą być dodatnie, albo
+
+00:06:50.025 --> 00:06:51.037
+obie muszą być ujemne.
+
+00:06:51.037 --> 00:06:55.005
+Tylko w taki sposób otrzymam liczbę
+dodatnią jako ich iloczyn.
+
+00:06:55.005 --> 00:06:58.029
+A teraz, jeśli je dodam, otrzymam
+liczbę ujemną, a jeśli
+
+00:06:58.029 --> 00:07:00.072
+te liczby byłyby dodatnie, wynik
+dodawania nie mógłby być
+
+00:07:00.072 --> 00:07:03.027
+liczbą ujemną, a więc
+z faktu że ich suma jest
+
+00:07:03.027 --> 00:07:05.075
+ujemna i z faktu, że ich
+iloczyn jest dodatni
+
+00:07:05.075 --> 00:07:10.042
+wynika, że obie liczby a
+i be są ujemne.
+
+00:07:10.042 --> 00:07:13.019
+a i b muszą być ujemne.
+
+00:07:13.019 --> 00:07:15.073
+Pamiętajcie, jedna nie może
+być ujemna, a druga
+
+00:07:15.073 --> 00:07:18.070
+dodatnia, bo wtedy ich iloczyn
+będzie liczbą ujemną.
+
+00:07:18.070 --> 00:07:22.068
+I obie nie mogą być dodatnie,
+ponieważ kiedy dodasz
+
+00:07:22.068 --> 00:07:24.051
+dwie liczby dodatnie, wynik
+będzie liczbą dodatnią.
+
+00:07:24.051 --> 00:07:27.050
+Zastanówmy się teraz ile mogą
+wynosić a i b.
+
+00:07:27.050 --> 00:07:28.099
+To są dwie liczby ujemne.
+
+00:07:28.099 --> 00:07:31.025
+Na jakie czynniki rozkłada 
+się 24.
+
+00:07:31.025 --> 00:07:33.013
+I będziemy musieli wziąć pod
+uwagę czynniki ujemne.
+
+00:07:33.013 --> 00:07:44.067
+Zobaczmy, to może być 1 razy 24,
+2 razy 11, to może być też 3
+
+00:07:44.067 --> 00:07:48.006
+razy 8, albo 4 razy 6.
+
+00:07:48.006 --> 00:07:51.022
+Teraz, które z tych liczb, 
+kiedy je pomnoże -no tak,
+
+00:07:51.022 --> 00:07:54.037
+jasne jest, że jeśli pomnożę
+1 razy 24, dostanę 24.
+
+00:07:54.037 --> 00:07:58.091
+Kiedy pomnoże 2 razy 11 -- przepraszam,
+powinno być 2 razy 12.
+
+00:07:58.091 --> 00:07:59.079
+Dostanę 24.
+
+00:07:59.079 --> 00:08:03.008
+Wiemy, że wszystkie te iloczyny
+dadzą 24.
+
+00:08:03.008 --> 00:08:07.047
+Ale które z nich, które z tych
+par, jeśli je dodam,
+
+00:08:07.047 --> 00:08:08.079
+otrzymam 11?
+
+00:08:08.079 --> 00:08:09.087
+A wtedy weźmiemy odpowiednio
+
+00:08:09.087 --> 00:08:11.044
+liczby ujemne z tej pary.
+
+00:08:11.044 --> 00:08:15.047
+Jak patrzę na to, od
+razu widzę, że to będzie 3 i 8.
+
+00:08:15.047 --> 00:08:19.014
+3 razy 8 równa się 24.
+
+00:08:19.014 --> 00:08:22.081
+3 plus 8 równa się 11.
+
+00:08:22.081 --> 00:08:24.068
+Ale to jeszcze nie koniec,
+prawda?
+
+00:08:24.068 --> 00:08:26.050
+Ponieważ mamy tutaj minus 11.
+
+00:08:26.050 --> 00:08:29.068
+A co będzie, jeśli weźmiemy
+minus 3 i minus 8?
+
+00:08:29.068 --> 00:08:37.078
+Minus 3 razy minus 8
+równa się plus 24.
+
+00:08:37.078 --> 00:08:43.058
+Minus 3 dodać minus 8
+równa się minus 11.
+
+00:08:43.058 --> 00:08:46.060
+Czyli minus 3 i minus 8
+działa.
+
+00:08:46.060 --> 00:08:53.084
+Jeśli chcemy przedstawić to w
+postaci iloczynowej, x kwadrat
+minus 11x plus 24
+
+00:08:53.084 --> 00:09:02.094
+będzie równe x minus 3 razy x 
+minus 8.
+
+00:09:02.094 --> 00:09:06.026
+Zróbmy jeszcze jeden taki przykład.
+
+00:09:06.026 --> 00:09:08.033
+A właściwie, to będzie trochę 
+inny przykład.
+
+00:09:08.033 --> 00:09:19.080
+Powiedzmy, że mam x kwadrat
+plus 5 x minus 14.
+
+00:09:19.080 --> 00:09:21.076
+Mamy teraz jeszcze inną sytuację.
+
+00:09:21.076 --> 00:09:26.046
+Iloczyn moich dwóch liczb jest
+ujemny, tak? a razy b
+
+00:09:26.046 --> 00:09:28.019
+równa się minus 14.
+
+00:09:28.019 --> 00:09:29.091
+Mój iloczyn jest liczbą ujemną.
+
+00:09:29.091 --> 00:09:32.092
+To oznacza, że jedna z nich jest
+dodatnia, a druga
+
+00:09:32.092 --> 00:09:33.090
+jest ujemna.
+
+00:09:33.090 --> 00:09:39.020
+A kiedy je dodam, a plus
+b, ma być równe 5.
+
+00:09:39.020 --> 00:09:41.036
+Zastanówmy się nad czynnikami,
+na jakie rozkłada się 14.
+
+00:09:41.036 --> 00:09:44.029
+I jaka ich kombinacja, po dodaniu,
+jeśli jeden z nich
+
+00:09:44.029 --> 00:09:46.055
+jest dodatni, a drugi ujemny,
+a właściwie mówię o ich
+
+00:09:46.055 --> 00:09:49.077
+różnicy, da w wyniku 5?
+
+00:09:49.077 --> 00:09:53.045
+Weźmy 1 i 14 - mam zamiar
+sprawdzić -
+
+00:09:53.045 --> 00:10:01.082
+1 and 14, minus 1 plus
+14 jest 13.
+
+00:10:01.082 --> 00:10:04.025
+Minus 1 plus 14 jest 13.
+
+00:10:04.025 --> 00:10:07.042
+Wypisze wszystkie kombinacje,
+które wchodzą w grę.
+
+00:10:07.042 --> 00:10:09.044
+W pewnym momencie Twój mózg
+zrobi to sam, w głowie.
+
+00:10:09.044 --> 00:10:16.049
+Mamy minus 1 plus 14 równa się
+13.
+
+00:10:16.049 --> 00:10:20.046
+I 1 dodać minus 14 równa
+się minus 13/
+
+00:10:20.046 --> 00:10:21.037
+A więc to nie działa.
+
+00:10:21.037 --> 00:10:22.095
+Nie równa się 5.
+
+00:10:22.095 --> 00:10:24.086
+A co z 2 i 7?
+
+00:10:24.086 --> 00:10:29.060
+Jeśli wezmę minus 2-- zapiszę to
+w innym kolorze -- jeśli
+
+00:10:29.060 --> 00:10:35.028
+wezzmę minus 2 plus 7,
+to to równa się 5.
+
+00:10:35.028 --> 00:10:35.075
+Gotowe!
+
+00:10:35.075 --> 00:10:36.066
+Zadziałało!
+
+00:10:36.066 --> 00:10:39.044
+Oczywiście mogę spróbować też
+2 dodać minus 7, ale to będzie
+
+00:10:39.044 --> 00:10:41.007
+równe minus 5, a więc to nie 
+będzie działać.
+
+00:10:41.007 --> 00:10:42.096
+Ale minus 2 plus 7 działa.
+
+00:10:42.096 --> 00:10:46.059
+I minus 2 razy
+7 równa się minus 14.
+
+00:10:46.059 --> 00:10:47.060
+Już to mamy.
+
+00:10:47.060 --> 00:10:53.021
+Wiemy, że to będzie x minus
+2, razy x plus 7.
+
+00:10:53.021 --> 00:10:54.033
+To jest bardzo przyjemne.
+
+00:10:54.033 --> 00:10:56.095
+Minus 2 razy 7
+wynosi minus 14.
+
+00:10:56.095 --> 00:11:00.087
+minus 2 plus 7
+równa się 5.
+
+00:11:03.075 --> 00:11:07.067
+Zróbmy jeszcze kilka takich przykładów
+
+00:11:07.067 --> 00:11:09.051
+żeby to naprawdę dobrze opanować.
+
+00:11:09.051 --> 00:11:16.036
+Powiedzmy, że mamy x kwadrat
+minus x, minus 56.
+
+00:11:16.036 --> 00:11:19.057
+Iloczyn tych dwóch liczb musi
+równać się minus 56,
+
+00:11:19.057 --> 00:11:21.062
+musi wynosić minus 56.
+
+00:11:21.062 --> 00:11:24.042
+I ich różnica, bo jedna musi być dodatnia,
+
+00:11:24.042 --> 00:11:26.027
+a druga ujemna, tak?
+
+00:11:26.027 --> 00:11:28.035
+Ich różnica musi być równa minus 1.
+
+00:11:28.035 --> 00:11:30.012
+Natychmiast przychodzi mi do
+
+00:11:30.012 --> 00:11:31.089
+głowy -- nie jestem do końca pewien, czy i Wam
+też to przychodzi do głowy
+
+00:11:31.089 --> 00:11:33.074
+właśnie poznaliśmy tabliczkę mnożenia --
+
+00:11:33.074 --> 00:11:36.048
+że 56 równa się 8 razy 7.
+
+00:11:36.048 --> 00:11:37.048
+Oczywiście, są też inne liczby.
+
+00:11:37.048 --> 00:11:39.095
+Na przykład 28 razy 2.
+
+00:11:39.095 --> 00:11:41.013
+I jeszcze różne inne.
+
+00:11:41.013 --> 00:11:44.029
+Ale 8 razy 7 przyszło mi do 
+głowy dlatego, że
+
+00:11:44.029 --> 00:11:45.047
+są bliskie jedna drugiej.
+
+00:11:45.047 --> 00:11:47.073
+A my potrzebujemy dwóch liczb, 
+które są bardzo bliskie jedna drugiej.
+
+00:11:47.073 --> 00:11:50.042
+I jedna z nich musi być
+ujemna, a druga
+
+00:11:50.042 --> 00:11:51.080
+musi być dodatnia.
+
+00:11:51.080 --> 00:11:55.025
+Fakt, że ich suma jest ujemna,
+mówi mi że
+
+00:11:55.025 --> 00:11:58.046
+to tą większą z nich trzeba będzie
+wziąć ze znakiem minus.
+
+00:11:58.046 --> 00:12:01.035
+Więc jeśli weźmiemy minus
+8 razy 7, to jest
+
+00:12:01.035 --> 00:12:03.032
+równe minus 56.
+
+00:12:03.032 --> 00:12:08.047
+A potem, jeśli weźmiemy minus 8 plus
+7, to to jest równe
+
+00:12:08.047 --> 00:12:12.010
+minus 1, a to jest dokładnie
+ten współczynnik tutaj.
+
+00:12:12.010 --> 00:12:16.049
+I więc w postaci iloczynowej, to
+będzie x minus 8,
+
+00:12:16.049 --> 00:12:18.069
+razy x plus 7.
+
+00:12:18.069 --> 00:12:21.069
+Często okazuje się że jest to jeden
+z najtrudniejszych momentów
+
+00:12:21.069 --> 00:12:23.091
+w nauce algebry, bo jest to
+tak jakby sztuka.
+
+00:12:23.091 --> 00:12:26.071
+Musicie przyjrzeć się wszystkim
+możliwym czynnikom, próbować
+
+00:12:26.071 --> 00:12:29.071
+brać je ze znakiem plus i minus,
+i sprawdzać które z tych czynników,
+
+00:12:29.071 --> 00:12:31.089
+kiedy jeden z nich jest ujemny,
+a drugi dodatni, dodadzą się
+
+00:12:31.089 --> 00:12:33.059
+do współczynnika w wyrazie z x.
+
+00:12:33.059 --> 00:12:35.086
+Ale jeśli zrobicie sami 
+wiele przykładów, przekonacie się
+
+00:12:35.086 --> 00:12:39.027
+że takie myślenie stanie się
+Waszą drugą naturą.
+
+00:12:39.027 --> 00:12:42.035
+A teraz podnieśmy barierę jeszcze
+wyżej.
+
+00:12:42.035 --> 00:12:46.013
+Powiedzmy że mam minus x kwadrat --
+wszystko, z czym mieliśmy do czynienia
+
+00:12:46.013 --> 00:12:49.003
+do tej pory miało liczbę
+dodatnią, plus 1,
+
+00:12:49.003 --> 00:12:50.069
+jako współczymmik przy wyrazie
+x kwadrat.
+
+00:12:50.069 --> 00:12:55.059
+Ale powiedzmy, że mamy minus
+x kwadrat
+
+00:12:55.059 --> 00:12:59.044
+minus 5x, plus 24.
+
+00:12:59.044 --> 00:13:00.090
+Jak to teraz przekształcić?
+
+00:13:00.090 --> 00:13:03.041
+No cóż, najłatwiejsza metoda,
+jaką znam, polega na tym, żeby
+wyłączyć
+
+00:13:03.041 --> 00:13:05.066
+czynnik minus 1 przed nawias, po czym
+będziemy mieli do czynienia z zadaniem
+
+00:13:05.066 --> 00:13:07.025
+dokładnie tego samego rodzaju, co te
+zrobione poprzednio.
+
+00:13:07.025 --> 00:13:11.065
+To jest dokładnie to samo, co
+minus 1 razy plus x
+
+00:13:11.065 --> 00:13:15.099
+kwadrat, plus 5x, minus 24.
+
+00:13:15.099 --> 00:13:16.029
+Zgadza się?
+
+00:13:16.029 --> 00:13:18.008
+Po prostu wyciągnąłem 
+czynnik minus 1 przed nawias.
+
+00:13:18.008 --> 00:13:20.017
+Możecie teraz pomnożyć to
+całe wyrażenie przez minus 1
+
+00:13:20.017 --> 00:13:21.069
+i przekonać sie że otrzymacie to samo.
+
+00:13:21.069 --> 00:13:23.055
+Można też wyciągnąć minus 1
+
+00:13:23.055 --> 00:13:25.000
+a potem podzielić przez minus 1.
+
+00:13:25.000 --> 00:13:26.075
+I znowu otrzymamy to samo.
+
+00:13:26.075 --> 00:13:29.036
+A teraz, tak samo jak poprzednio.
+
+00:13:29.036 --> 00:13:33.050
+Potrzebuje znaleźć dwie takie liczby,
+których iloczyn równa się
+
+00:13:33.050 --> 00:13:34.069
+minus 24.
+
+00:13:34.069 --> 00:13:37.012
+Jedna będzie dodatnia,
+a druga ujemna.
+
+00:13:41.054 --> 00:13:43.076
+A kiedy je dodam, powinienem 
+otrzymać 5.
+
+00:13:43.076 --> 00:13:48.085
+Zastanówmy się,
+24 równa się 1 razy 24.
+
+00:13:48.085 --> 00:13:55.075
+Zobaczmy, gdyby to było minus 1
+i 24, suma równa się plus 23,
+
+00:13:55.075 --> 00:13:57.053
+a gdyby było na odwrót,
+dostalibyśmy minus 23.
+
+00:13:57.053 --> 00:13:58.050
+Nie działa.
+
+00:13:58.050 --> 00:14:01.021
+A co z 2 i 12?
+
+00:14:01.021 --> 00:14:04.052
+No tak, gdyby to było ujemne --
+pamiętajcie, jedna z tych dwóch liczb
+
+00:14:04.052 --> 00:14:05.003
+musi być ujemna.
+
+00:14:05.003 --> 00:14:07.057
+Jeśli to 2 miałoby być ujemne, ich
+suma byłaby równa 10.
+
+00:14:07.057 --> 00:14:09.075
+Jeśli to 12 jest ujemne, ich
+suma równa się minus 10.
+
+00:14:09.075 --> 00:14:11.029
+Też nie działa.
+
+00:14:11.029 --> 00:14:13.028
+3 i 8.
+
+00:14:13.028 --> 00:14:16.085
+Jeśli to 3 będzie ujemne,
+ich suma wyniesie 5.
+
+00:14:16.085 --> 00:14:17.090
+A więc to działa!
+
+00:14:17.090 --> 00:14:24.062
+Jeśli weźmiemy minus 3 
+8, minus 3 i 8 spełniają wszystkie warunki.
+
+00:14:24.062 --> 00:14:26.062
+Ponieważ minus 3
+3 plus 8 wynosi 5.
+
+00:14:26.062 --> 00:14:29.050
+A minus 3 razy 8
+równa się minus 24.
+
+00:14:29.050 --> 00:14:31.063
+A więc to będzie równe -- nie 
+wolno zapomnieć
+
+00:14:31.063 --> 00:14:35.023
+o tym minus 1 z przodu, a my
+zapisujemy w postaci iloczynowej to,
+co jest w środku.
+
+00:14:35.023 --> 00:14:42.099
+Minus 1 razy x minus
+3, razy x plus 8.
+
+00:14:42.099 --> 00:14:44.079
+Jesli chcecie, możecie 
+pomnożyć to
+
+00:14:44.079 --> 00:14:46.045
+przez minus 1, wtedy bedziemy 
+mieli 3
+
+00:14:46.045 --> 00:14:47.055
+minus x jeśli tak to zrobimy.
+
+00:14:47.055 --> 00:14:48.080
+Ale nie musimy tak zrobić.
+
+00:14:51.080 --> 00:14:53.022
+To teraz zróbmy jeszcze jeden 
+przykład.
+
+00:14:53.022 --> 00:14:56.005
+Sądzę, że im więcej przykładów
+tym lepiej.
+
+00:14:56.005 --> 00:15:01.062
+OK, powiedzmy, że mam
+minus x kwadrat
+
+00:15:01.062 --> 00:15:06.069
+plus 18x, minus 72.
+
+00:15:06.069 --> 00:15:09.032
+Tak jak poprzednio, wyciągniemy
+minus 1 przed nawias.
+
+00:15:09.032 --> 00:15:13.003
+To będzie równe minus 1 razy
+x kwadrat
+
+00:15:13.003 --> 00:15:16.090
+minus 18x, plus 72.
+
+00:15:16.090 --> 00:15:19.064
+Teraz musimy pomyśleć o dwóch
+liczbach, takich że jeśli
+
+00:15:19.064 --> 00:15:22.033
+je pomnożę, otrzymam plus 72.
+
+00:15:22.033 --> 00:15:24.048
+A więc obie muszą mieć ten
+sam znak.
+
+00:15:24.048 --> 00:15:26.092
+To sprawia że łatwiej je znaleźć,
+przynajmniej dla mnie łatwiej.
+
+00:15:26.092 --> 00:15:29.025
+Po pomnożeniu
+mam otrzymać plus 72.
+
+00:15:29.025 --> 00:15:32.003
+A kiedy je dodam, w
+wyniku mam otrzymać minus 18.
+
+00:15:32.003 --> 00:15:34.040
+Obie mają ten sam znak, a ich
+suma jest liczbą
+
+00:15:34.040 --> 00:15:36.047
+ujemną, więc obie muszą
+być ujemne.
+
+00:15:41.047 --> 00:15:43.078
+Teraz moglibyśmy sprawdzić wszystkie
+czynniki, na jakie rozkłada się 72.
+
+00:15:43.078 --> 00:15:48.050
+Ale od razu przychodzi mi do głowy
+8 razy 9,
+
+00:15:48.050 --> 00:15:53.026
+ale 8 razy 9, a właściwie minus 8
+razy minus 9, albo minus 8 dodać
+
+00:15:53.026 --> 00:15:55.021
+minus 9, wcale nie działa.
+
+00:15:55.021 --> 00:15:58.005
+Bo wychodzi 17.
+
+00:15:58.005 --> 00:15:58.086
+Prawie, ale nie to.
+
+00:15:58.086 --> 00:15:59.055
+Pokażę wam to.
+
+00:15:59.055 --> 00:16:04.039
+Minus 9 dodać minus 8, to
+równa się minus 17.
+
+00:16:04.039 --> 00:16:06.013
+Blisko, ale jeszcze za wcześnie otwierać szampana.
+
+00:16:06.013 --> 00:16:06.099
+Jakie mamy inne możliwości?
+
+00:16:06.099 --> 00:16:08.000
+Mamy 6 i 12.
+
+00:16:08.000 --> 00:16:09.070
+To wygląda całkiem dobrze.
+
+00:16:09.070 --> 00:16:13.071
+Jeśli weźmiemy minus 6 i dodamy
+minus 12, otrzymamy
+
+00:16:13.071 --> 00:16:15.036
+minus 18.
+
+00:16:15.036 --> 00:16:16.059
+Jak widzicie, w tym jest trochę sztuki.
+
+00:16:16.059 --> 00:16:18.080
+Trzeba próbować różnych możliwości.
+
+00:16:18.080 --> 00:16:22.036
+A więc będziemy mieli minus
+1-- nie możemy o tym zapomnieć
+
+00:16:22.036 --> 00:16:29.044
+-- razy x minus 6,
+razy x minus 12.
+

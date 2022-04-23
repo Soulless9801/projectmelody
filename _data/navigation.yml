@@ -3,3 +3,7 @@ header:
     url: /
   - title: Staff
     url: /staff
+  - title: Member Login
+    url: /login
+
+footer:

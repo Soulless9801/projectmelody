@@ -90,30 +90,20 @@
     <div class="main" style="margin-left: 10px; margin-top: 2px">
       <h1>Welcome to Project Melody!!</h1>
       <h3>Announcements:</h2>
+      <!--ANNOUNCEMENTS-->
       <div id="announcements" style="width:60%;">
         <div class="card">
           <div class="card-body">
-              <h5 class="card-title">August 14, 2022 Concert</h5>
+              <h5 class="card-title">September 25, 2022 Concert</h5>
               <h6 class="card-subtitle mb-2 text-muted"></h6>
-              <h6 class="card-subtitle mb-2 text-muted">6/4/2022</h6>
+              <h6 class="card-subtitle mb-2 text-muted">9/2/2022</h6>
               <p class="card-text">
-                  We are having a fundraiser concert on August 14th <br>
-                  LOCATION: Pflugerville Community Center <br>
-                  TIME: 3:00 PM - 5:00 PM <br>
-                  Sign up: <a href="https://docs.google.com/spreadsheets/d/1RcRuN5rWYm0S7S9PFYzlnFcWtLx5LZZg1jJ3RpT8SCw/edit#gid=0">Google Sheets</a>
-              </p>
-          </div>
-        </div>
-        <br>
-          <!--<div class="card">
-              <div class="card-body">
-                  <h5 class="card-title">None for now!</h5>
-                  <p class="card-text">
-                      Nothing here yet!
-                  </p>
-              </div> 
-          </div>-->
+                  We will be having a concert on September 25th, check the table below for more information.<br>
+                  LOCATION: Renaissance-Austin Senior Living Facility<br>
+                  TIME: TBA <br>
+                  Sign up: <a href="https://docs.google.com/spreadsheets/d/1LeJ-jeK8DAsQK_s8aySaFMuujxNXCw76TRTDgpj04-M/edit">Google Sheets</a>
           <!--
+            TEMPLATE FOR ANNOUNCEMENT CARD
             <div class="card">
               <div class="card-body">
                   <h5 class="card-title">TITLE</h5>
@@ -130,6 +120,7 @@
       <br>
       <br>
       <h3>Events</h3>
+      <!--CONCERT TABLE-->
       <div id="concertschedule" style="width: 60%">
         <table class="table table-striped table-hover" id="concerttable">
             <thead>
@@ -148,41 +139,43 @@
                     <td></td>
                     <td>Maple Ridge Retirement Home</td>
                     <td>1:30 PM</td>
-                    <td>----</td>
+                    <td><a class="btn btn-link disabled" href="----">Sign Up Unavailable</a></td>
                     <td><a class="btn btn-link" href="https://www.youtube.com/playlist?list=PLX8yRUJzGrlAjd7oZK3eruf_7TiO67zzr">Youtube</a></td>
                 </tr>
-                <tr>
-                    <td>----</td>
-                    <td>Virtual K-Pop Concert</td>
-                    <td>----</td>
-                    <td>----</td>
-                    <td>----</td>
-                    <td><a class="btn btn-link disabled" href="youtube.com/https://www.youtube.com/channel/UCVxn59RmtXPuggd8uzMC8lA">Recording Unavailable</a></td>
-                </tr>
+              
                 <tr class="table-dark">
                   <td>5/21/2022</td>
-                  <td>Project Melody Year 0 - End of School Year @ Lakeline Oaks Retirement Home</td>
+                  <td>Project Melody Year 0 - End of School Year</td>
                   <td>Lakeline Oaks Retirement Home</td>
                   <td>10:00 AM - 11:00 AM</td>
-                  <td><a class="btn btn-link disabled" href="https://docs.google.com/spreadsheets/d/1djFJ-BYuWacBG3iRx0Fn-2A-uGsbfW_CUach-n9dS5s/edit#gid=0">Sign Up Unavailable</a></td>
-                  <td><a class="btn btn-link disabled" href="youtube.com/https://www.youtube.com/channel/UCVxn59RmtXPuggd8uzMC8lA">Recording Unavailable</a></td>
+                  <td><a class="btn btn-link disabled" href="----">Sign Up Unavailable</a></td>
+                  <td><a class="btn btn-link disabled" href="----">Recording Unavailable</a></td>
                 </tr>
-                <tr>
+                <tr class="table-dark">
                     <td>8/14/2022</td>
                     <td>Project Melody Fundraiser Concert</td>
-                    <td><a class="btn btn-link" href="https://goo.gl/maps/fC2jbjPSnYXeCvGr7">Pflugerville Community Center</a></td>
+                    <td>Pflugerville Community Center`</td>
                     <td>3:00 PM - 5:00 PM</td>
-                    <td><a class="btn btn-link" href="https://docs.google.com/spreadsheets/d/1RcRuN5rWYm0S7S9PFYzlnFcWtLx5LZZg1jJ3RpT8SCw/edit#gid=0">Sign Up</a></td>
-                    <td><a class="btn btn-link disabled" href="youtube.com/https://www.youtube.com/channel/UCVxn59RmtXPuggd8uzMC8lA">Recording Unavailable</a></td>
+                    <td><a class="btn btn-link disabled" href="----">Sign Up Unavailable</a></td>
+                    <td><a class="btn btn-link disabled" href="----">Recording Unavailable</a></td>
+                  </tr>
+              <tr>
+                    <td id="date"> 9/25/2022 </td>
+                    <td id="title"> Project Melody Concert</td>
+                    <td id="location"><a class="btn btn-link" href="https://goo.gl/maps/TSoFowQhWf3EYyvMA">Renaissance-Austin Senior Living Facility</a></td>
+                    <td id="time"> TBA </td>
+                    <td id="signuplink"><a class="btn btn-link" href=" https://docs.google.com/spreadsheets/d/1LeJ-jeK8DAsQK_s8aySaFMuujxNXCw76TRTDgpj04-M/edit "> Sign Up </a></td>
+                    <td id="reclink"> <a class="btn btn-link disabled" href=" ---- "> Recording Unavailable </a></td>
                   </tr>
                 <!--
+                  TEMPELATE FOR CONCERT ROW
                   <tr>
                     <td id="date"> ---- </td>
                     <td id="title"> ---- </td>
-                    <td id="location"> ---- </td>
+                    <td id="location"><a blass="btn btn-link" href=" ---- "> ---- </a></td>
                     <td id="time"> ---- </td>
-                    <td id="signuplink"><a href=" ---- "> ---- </a></td>
-                    <td id="reclink"> <a href=" ---- "> ---- </a></td>
+                    <td id="signuplink"><a class="btn btn-link" href=" ---- "> ---- </a></td>
+                    <td id="reclink"> <a class="btn btn-link disabled" href=" ---- "> Recording Unavailable </a></td>
                   </tr>
                 -->
             </tbody>
